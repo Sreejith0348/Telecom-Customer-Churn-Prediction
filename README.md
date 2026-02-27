@@ -46,11 +46,11 @@ Telecom-customer-churn/
 
 # Evaluation Metrics
 
-Accuracy
-Precision
-Recall
-F1-Score
-ROC-AUC Score
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
 
 
 # Setup
