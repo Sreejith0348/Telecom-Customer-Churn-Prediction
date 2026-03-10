@@ -41,7 +41,9 @@ Telecom-customer-churn/
 ├── models/           # Saved models
 ├── outputs/       # figures, reports
 ├── requirements.txt
+├── app.py   # streamlit dashboard
 └── README.md
+
 
 
 # Evaluation Metrics
